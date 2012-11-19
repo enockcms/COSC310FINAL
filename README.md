@@ -1,4 +1,4 @@
 COSC310FINAL
 ============
 
-final project
+final project - and I don't understand Git.
